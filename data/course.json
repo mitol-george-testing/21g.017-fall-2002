@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "821a81f5-a6f4-527a-95f6-5879067cda60"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Germany and its European Context",
+  "course_description": "This course focuses on main currents in contemporary German literary and visual culture.\u00a0Taking Nietzsche's thought as a point of departure, students will survey the dialectics of tradition and modernity in both Germany and other European countries, particularly the UK, France, Denmark, and Poland.\u00a0Primary works are drawn from literature, cinema, art, and performance, including works by Peter Sloterdijk, Thomas Vinterberg, and Michel Houellebecq.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.017",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
